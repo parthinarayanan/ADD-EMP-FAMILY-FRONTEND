@@ -1,0 +1,188 @@
+ body{
+    /* background-image: url(" https://t3.ftcdn.net/jpg/02/92/90/56/360_F_292905667_yFUJNJPngYeRNlrRL4hApHWxuYyRY4kN.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px; */
+    font-style: oblique;
+} 
+
+#a1{
+    
+    margin-right:600px;
+}
+#s1:hover{
+    background-color:black;
+    color: white;
+}
+#s1{
+    
+    position:relative;
+    bottom:10px;
+    margin-right:600px;
+    height: 35px;
+    
+  
+    
+
+}
+#a2{
+    position:relative;
+    top: 10px;
+}
+#s2{
+    position:relative;
+    bottom:200px;
+    height: 35px;
+}
+#s2:hover{
+    background-color: black;
+    color: white;
+}
+#a3{
+    margin-left:600px;
+    position: relative;
+    bottom: 190px;
+}
+#s3{
+    margin-left:600px;
+    position: relative;
+    bottom: 200px;
+    height: 35px;
+}
+#s3:hover{
+    background-color: black;
+    color: white;
+}
+#a4{
+    margin-right: 600px;
+    position: relative;
+    bottom: 150px;
+}
+#s4{
+    margin-right: 600px;
+    position: relative;
+    bottom: 160px;
+    height: 35px;
+}
+#s4:hover{
+    background-color: black;
+    color: white;
+}
+#a5{
+    position: relative;
+    bottom: 235px;
+}
+#s5{
+    position: relative;
+    bottom: 235px;
+    
+    height: 35px;
+}
+#s5:hover{
+    background-color: black;
+    color: white;
+}
+#a6{
+    margin-left:600px;
+    position: relative;
+    bottom:330px;
+}
+#s6{
+    margin-left:600px;
+    position: relative;
+    bottom:330px;
+    height: 35px;
+}
+#s6:hover{
+    background-color: black;
+    color: white;
+}
+#a7{
+    margin-right: 600px;
+    position: relative;
+    bottom: 310px;
+}
+#s7{
+    margin-right: 600px;
+    position: relative;
+    bottom: 320px;
+    height: 35px;
+}
+#s7:hover{
+    background-color: black;
+    color: white;
+}
+.btn{
+    position: relative;
+    bottom:300px;
+    border-radius: 50px;
+    
+}
+.btn:hover{
+    background-color:green; 
+    transform: scale(1.05);
+  
+  
+}
+#m1{
+    position: relative;
+    bottom: 90px;
+} 
+.r43{
+    position: relative;
+    margin-left: 350px;
+    width: 180px;
+    bottom:105px;
+    
+
+
+}
+#vd{
+    color: red;
+    margin-right:600px;
+   
+}
+.overall{
+    position: relative;
+    padding: black 100px;
+   
+    
+    
+    
+   
+   
+   
+}
+ #valid{
+    color: red;
+    position: relative;
+    bottom:330px;
+    margin-right: 600px;
+ }
+ #occ{
+    position: relative;
+    bottom: 20px;
+ }
+ #Ad{
+    position: relative;
+    bottom: 20px;
+ }
+ .btn{
+    height: 30px;
+    position: relative;
+   
+ }
+ .text-center{
+    background-color: rgba(67, 214, 18, 0.2);
+    background: linear-gradient(45deg, #30d26e, #5f0b97);
+    height: 570px;
+    width: 82%;
+    margin-left:200px;
+    
+
+ }
+ h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+ }
+ 
